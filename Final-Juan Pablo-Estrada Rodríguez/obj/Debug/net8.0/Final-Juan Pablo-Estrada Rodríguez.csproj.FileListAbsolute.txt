@@ -1,0 +1,14 @@
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\bin\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.exe
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\bin\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.deps.json
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\bin\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.runtimeconfig.json
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\bin\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.dll
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\bin\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.pdb
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.dll
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\refint\Final-Juan Pablo-Estrada Rodríguez.dll
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.pdb
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\Final-Juan Pablo-Estrada Rodríguez.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Documentos\Final-Juan Pablo-Estrada Rodríguez\obj\Debug\net8.0\ref\Final-Juan Pablo-Estrada Rodríguez.dll

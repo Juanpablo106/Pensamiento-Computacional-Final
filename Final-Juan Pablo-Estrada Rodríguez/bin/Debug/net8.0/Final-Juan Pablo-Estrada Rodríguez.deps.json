@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final-Juan Pablo-Estrada Rodríguez/1.0.0": {
+        "runtime": {
+          "Final-Juan Pablo-Estrada Rodríguez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final-Juan Pablo-Estrada Rodríguez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
